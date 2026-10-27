@@ -28,7 +28,7 @@ export function ProjectCard({ project, index }) {
           <div className="project-placeholder" aria-label={`${project.title} video coming soon`}>
             <span className="placeholder-icon" aria-hidden="true">▶</span>
             <span>Gameplay footage</span>
-            <span className="placeholder-note">Video showcase coming soon</span>
+            <span className="placeholder-note">Unfortunately, no videos survived :(</span>
           </div>
         )}
       </div>
